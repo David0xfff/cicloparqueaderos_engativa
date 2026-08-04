@@ -1,0 +1,405 @@
+[
+  {
+    "id": "CPE-001",
+    "fid": 1,
+    "nombre": "Carvajal",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "San Cayetano",
+    "coordenadas": {
+      "lat": 4.66161631,
+      "lng": -74.10915202
+    },
+    "globalId": "1f1d6596-a062-49f8-a929-ad5253f477ec"
+  },
+  {
+    "id": "CPE-002",
+    "fid": 2,
+    "nombre": "Compensar CUR",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Normandía",
+    "coordenadas": {
+      "lat": 4.66260924,
+      "lng": -74.10350805
+    },
+    "globalId": "c8f09fa7-d627-4665-aec0-84489a626a78"
+  },
+  {
+    "id": "CPE-003",
+    "fid": 3,
+    "nombre": "Estación Av. Rojas",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Normandía",
+    "coordenadas": {
+      "lat": 4.662151,
+      "lng": -74.108907
+    },
+    "globalId": "2fa961a3-1fdb-48a7-8842-c67916f27e98"
+  },
+  {
+    "id": "CPE-004",
+    "fid": 4,
+    "nombre": "Portal 80",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bochica",
+    "coordenadas": {
+      "lat": 4.709575,
+      "lng": -74.110413
+    },
+    "globalId": "ca73dc9b-4fa5-4b24-8ccc-2eb502a371ab"
+  },
+  {
+    "id": "CPE-005",
+    "fid": 5,
+    "nombre": "City Parking World Business Center",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Los Monjes",
+    "coordenadas": {
+      "lat": 4.68027364,
+      "lng": -74.11691547
+    },
+    "globalId": "2f17db15-24ac-4e0f-bde2-c369392a966f"
+  },
+  {
+    "id": "CPE-006",
+    "fid": 6,
+    "nombre": "Idiger",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "San Ignacio",
+    "coordenadas": {
+      "lat": 4.67476,
+      "lng": -74.113439
+    },
+    "globalId": "5d6b1207-47e4-4a53-89af-63ad3043ed80"
+  },
+  {
+    "id": "CPE-007",
+    "fid": 7,
+    "nombre": "City Parking Bodytech Normandia",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Normandía",
+    "coordenadas": {
+      "lat": 4.668302,
+      "lng": -74.110125
+    },
+    "globalId": "8d422ac6-fe87-48be-9890-8228fe223d3f"
+  },
+  {
+    "id": "CPE-008",
+    "fid": 8,
+    "nombre": "Centro Comercial Titan",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Santa Rosita",
+    "coordenadas": {
+      "lat": 4.695749,
+      "lng": -74.086616
+    },
+    "globalId": "69b018b3-c62d-411c-852e-2b6c9772f56b"
+  },
+  {
+    "id": "CPE-009",
+    "fid": 9,
+    "nombre": "Alcaldía Local de Engativá",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Boyacá Real",
+    "coordenadas": {
+      "lat": 4.68722058,
+      "lng": -74.0982093
+    },
+    "globalId": "14f0ef4d-60c8-4186-99c7-bc799f6ca80a"
+  },
+  {
+    "id": "CPE-010",
+    "fid": 10,
+    "nombre": "City Parking Hotel Marriot",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Franco ",
+    "coordenadas": {
+      "lat": 4.68763706,
+      "lng": -74.1273086
+    },
+    "globalId": "f2323360-38df-4c79-b670-0c1b6b566b30"
+  },
+  {
+    "id": "CPE-011",
+    "fid": 11,
+    "nombre": "ETB- Sede Bachue",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bachue",
+    "coordenadas": {
+      "lat": 4.71204338,
+      "lng": -74.11281862
+    },
+    "globalId": "7c0646c9-e2d6-4abc-95f2-3ceeee71bad1"
+  },
+  {
+    "id": "CPE-012",
+    "fid": 12,
+    "nombre": "Johnson & Johnson",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Normandía ",
+    "coordenadas": {
+      "lat": 4.65971669,
+      "lng": -74.10629587
+    },
+    "globalId": "d874d0ef-b5e6-4b16-b5f0-2d46533a218a"
+  },
+  {
+    "id": "CPE-013",
+    "fid": 13,
+    "nombre": "City Parking Lote av. ciudad de cali",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Los Monjes",
+    "coordenadas": {
+      "lat": 4.6798704,
+      "lng": -74.11739021
+    },
+    "globalId": "3cebcbfd-c44b-4540-b4b0-d70f172e62d8"
+  },
+  {
+    "id": "CPE-014",
+    "fid": 14,
+    "nombre": "Centro comercial Primavera Plaza",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Primavera",
+    "coordenadas": {
+      "lat": 4.70487828,
+      "lng": -74.10337687
+    },
+    "globalId": "a210bada-0c79-4344-bb83-21edaa7e40d5"
+  },
+  {
+    "id": "CPE-015",
+    "fid": 15,
+    "nombre": "Homecenter Dorado calle 26",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "San Cayetano ",
+    "coordenadas": {
+      "lat": 4.67837076,
+      "lng": -74.11779999
+    },
+    "globalId": "60114243-6a1a-442f-adf4-168a281f261c"
+  },
+  {
+    "id": "CPE-016",
+    "fid": 16,
+    "nombre": "Home center calle 80",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza ",
+    "coordenadas": {
+      "lat": 4.68486477,
+      "lng": -74.07892286
+    },
+    "globalId": "027146ad-1988-48dd-b2ec-4b29611cf94b"
+  },
+  {
+    "id": "CPE-017",
+    "fid": 17,
+    "nombre": "Instituto Distrital de Protección y Bienestar Ani*",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bolivia ",
+    "coordenadas": {
+      "lat": 4.69856,
+      "lng": -74.077058
+    },
+    "globalId": "84592c51-2cac-43fc-8f73-d126a2b86bcf"
+  },
+  {
+    "id": "CPE-018",
+    "fid": 18,
+    "nombre": "Centro comecial Diver Plaza",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Villas de Granada ",
+    "coordenadas": {
+      "lat": 4.70092683,
+      "lng": -74.11550889
+    },
+    "globalId": "c0f9e876-4287-4ab3-be6e-0ae63ec495fb"
+  },
+  {
+    "id": "CPE-019",
+    "fid": 19,
+    "nombre": "Edificio Mega Port",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Los Monjes",
+    "coordenadas": {
+      "lat": 4.6774311,
+      "lng": -74.11423147
+    },
+    "globalId": "530688ba-7c87-4c73-b199-43dbf1584080"
+  },
+  {
+    "id": "CPE-020",
+    "fid": 20,
+    "nombre": "Parking Jumbo Calle 80",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Metropolis ",
+    "coordenadas": {
+      "lat": 4.69117007,
+      "lng": -74.08393715
+    },
+    "globalId": "f1a004ec-cf43-4875-854f-12f1dc29d0cc"
+  },
+  {
+    "id": "CPE-021",
+    "fid": 21,
+    "nombre": "Integracion y Gestion en Territorio Engativa",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza",
+    "coordenadas": {
+      "lat": 4.68924191,
+      "lng": -74.10310115
+    },
+    "globalId": "ca6f443d-11d2-4e66-9ec2-115f91eb62e8"
+  },
+  {
+    "id": "CPE-022",
+    "fid": 22,
+    "nombre": "Casa de la Juventud Engativa",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza",
+    "coordenadas": {
+      "lat": 4.69456627,
+      "lng": -74.10952882
+    },
+    "globalId": "61618f6b-77eb-4794-8096-9f293921ba8a"
+  },
+  {
+    "id": "CPE-023",
+    "fid": 23,
+    "nombre": "Homecenter Avenida 68",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza",
+    "coordenadas": {
+      "lat": 4.68497091,
+      "lng": -74.07894375
+    },
+    "globalId": "b0f8489d-6dbb-4c30-bdeb-fdbcbf6def96"
+  },
+  {
+    "id": "CPE-024",
+    "fid": 24,
+    "nombre": "Centro comercial Nuestro Bogotá",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "San Cayetano",
+    "coordenadas": {
+      "lat": 4.68279061,
+      "lng": -74.11616278
+    },
+    "globalId": "1684db0d-17b4-4ace-a4a4-46bcc02b9aa2"
+  },
+  {
+    "id": "CPE-025",
+    "fid": 25,
+    "nombre": "Centro Empresarial Conecta",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "San Cayetano",
+    "coordenadas": {
+      "lat": 4.68339857,
+      "lng": -74.12061462
+    },
+    "globalId": "6d861386-9bda-4618-841f-fac535016b5b"
+  },
+  {
+    "id": "CPE-026",
+    "fid": 26,
+    "nombre": "Centro Empresarial Paralelo 26 P.H.",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Normandía ",
+    "coordenadas": {
+      "lat": 4.65871391,
+      "lng": -74.10552695
+    },
+    "globalId": "f40bdab4-bf14-4a49-adbf-75158240bcec"
+  },
+  {
+    "id": "CPE-027",
+    "fid": 27,
+    "nombre": "Compensar Av 68",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza ",
+    "coordenadas": {
+      "lat": 4.66057291,
+      "lng": -74.09899088
+    },
+    "globalId": "3014910c-be97-4795-9dd6-26f52e75c5c1"
+  },
+  {
+    "id": "CPE-028",
+    "fid": 28,
+    "nombre": "Alkosto Av 68",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza ",
+    "coordenadas": {
+      "lat": 4.67981743,
+      "lng": -74.08590475
+    },
+    "globalId": "23d8110b-cc12-44c6-a530-6cee2af048e4"
+  },
+  {
+    "id": "CPE-029",
+    "fid": 29,
+    "nombre": "Exito Calle 80",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza ",
+    "coordenadas": {
+      "lat": 4.68335845,
+      "lng": -74.0811346
+    },
+    "globalId": "4ef3ec69-4d3e-4775-a019-84f5057443f1"
+  },
+  {
+    "id": "CPE-030",
+    "fid": 30,
+    "nombre": "Makro calle 80",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Bonanza ",
+    "coordenadas": {
+      "lat": 4.69742722,
+      "lng": -74.08752949
+    },
+    "globalId": "e07adcfa-fbad-4649-af59-203ede9586d8"
+  },
+  {
+    "id": "CPE-031",
+    "fid": 31,
+    "nombre": "City Parking World Business Center",
+    "tipo": "cicloparqueadero",
+    "localidad": "Engativá",
+    "barrio": "Los Monjes",
+    "coordenadas": {
+      "lat": 4.6809569,
+      "lng": -74.11726723
+    },
+    "globalId": "4fa0eeb9-d4c1-4007-bb2b-0e758ddd907b"
+  }
+]
